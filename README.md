@@ -1,3 +1,6 @@
+
+学习地址 http://c.biancheng.net/view/1317.html
+
 设计模式的分类
 创建型模式，共五种：
 
